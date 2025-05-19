@@ -9,12 +9,15 @@ This project utilized Deep Q-Learning to solve a treasure hunting game. The goal
 
 Python Libraries Used:   
 1) NumPy: Used to work with array objects quickly.
+   
    [Guide](https://numpy.org/install/)
    
 2) Keras: Deep-Learning API that supports TensorFlow
+   
    [Guide](https://keras.io/getting_started/)
 
 3) Matplotlib: Used to create visualizations
+   
    [Guide](https://matplotlib.org/stable/users/getting_started/)
    
 
